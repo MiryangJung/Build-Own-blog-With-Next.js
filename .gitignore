@@ -40,3 +40,7 @@ yarn-error.log*
 
 # Contentlayer
 .contentlayer
+
+# sitemap
+sitemap*.xml
+robots.txt
